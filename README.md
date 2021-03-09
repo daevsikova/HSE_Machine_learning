@@ -8,3 +8,6 @@ Homework assignments
 5. Neural network
 6. DCGAN, VAE
 7. SVM: soft-margin; linear, gaussian, polynomial kernels
+8. Decision trees
+9. Random forest
+10. Naive Bayes
