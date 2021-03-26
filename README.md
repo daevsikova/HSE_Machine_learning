@@ -11,3 +11,4 @@ Homework assignments
 8. Decision trees
 9. Random forest
 10. Naive Bayes
+11. Stochastic stranding
